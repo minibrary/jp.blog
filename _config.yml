@@ -2,7 +2,7 @@
 title: ミニブラリー
 description: 私のミニ・ライブラリー♪
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://jptest.minibrary.com" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "http://jp.minibrary.com" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: MiNi
